@@ -58,25 +58,26 @@ unique pixels colour corresponds to uniform colouring of the scene presented in 
 
 [masks](http://vis.iitp.ru/mls-dataset/masks_preview.zip) < 1MB
 
-<!-- 
-Images files are organized as follwoing:
+Images files are organized as following:
 
 <pre>
 ├── 01
-│   ├── 01_2HAL_DESK_B025.tif
-│   ├── 01_2HAL_DESK_B050.tif
-│   ├── 01_2HAL_DESK_B075.tif
-│   ├── 01_2HAL_DESK_B100.tif
+│   ├── 01_2HAL_DESK_B025.{tif, png, jpg}
+│   ├── 01_2HAL_DESK_B050.{tif, png, jpg}
+│   ├── 01_2HAL_DESK_B075.{tif, png, jpg}
+│   ├── 01_2HAL_DESK_B100.{tif, png, jpg}
 │   ├── ...
-│   ├── 01_2HAL_DESK.tif
-│   └── 01_2HAL.tif
+│   ├── 01_2HAL_DESK.{tif, png, jpg}
+│   └── 01_2HAL.{tif, png, jpg}
 ├── 02
 │   ...
 ├── 03
 │   ...
 </pre>
 
-where 01, 02, 03 etc directories containes images for a single scene, and 2HAL, 2HAL_DESK, 2HAL_DESK_B025 indicates various lighting conditions of a given scene. The scene is provided with one mask ([scene_number].png). -->
+where the subdirectory name and the first number in the file name -- 01, 02, 03 etc -- indicates scene number, while the other part of file name -- 2HAL, 2HAL_DESK, 01_2HAL_DESK_B025 etc -- is a list of turned on illuminants (see description above in this section).  2HAL_DESK_B025 indicates various lighting conditions of a given scene. 
+
+Masks files are named as <*scene_number*>.png.
 
 ## Spectral data
 
@@ -92,6 +93,8 @@ TODO
 **Illuminants**
 
 **Surfaces** -->
+
+<!-- Acknowledgements and contributions -->
 
 ## License & citation  
 
