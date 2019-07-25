@@ -13,18 +13,22 @@ We mainly address the realistic scenarios for evaluation of computational colour
 
 **Full resolution (2391 x 1900)**
 
-[32-bit tif images](ftp://vis.iitp.ru/mls-dataset/images_32bit.zip) 15 GB
-[masks](ftp://vis.iitp.ru/mls-dataset/masks_32bit.zip) 3 MB
+[32-bit tif images](http://vis.iitp.ru/mls-dataset/images_32bit.zip) 15 GB
+
+[masks](http://vis.iitp.ru/mls-dataset/masks_32bit.zip) 3 MB
 
 **Half-resolution (1280 x 1051)**
 
-[16-bit lossless compressed png images](ftp://vis.iitp.ru/mls-dataset/images_16bit.zip) 2.6 GB
-[masks](ftp://vis.iitp.ru/mls-dataset/masks_16bit.zip) < 1 MB
+[16-bit lossless compressed png images](http://vis.iitp.ru/mls-dataset/images_16bit.zip) 2.6 GB
+
+[masks](http://vis.iitp.ru/mls-dataset/masks_16bit.zip) < 1 MB
 
 **Quarter resolution (600 x 493) for preview**
 
-[jpeg images](ftp://vis.iitp.ru/mls-dataset/images_preview.zip) 160 MB
-[masks](ftp://vis.iitp.ru/mls-dataset/masks_preview.zip) < 1MB
+[jpeg images](http://vis.iitp.ru/mls-dataset/images_preview.zip) 160 MB
+
+[masks](http://vis.iitp.ru/mls-dataset/masks_preview.zip) < 1MB
+
 <!-- 
 Images files are organized as follwoing:
 
