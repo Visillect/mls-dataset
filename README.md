@@ -6,6 +6,16 @@
 + Pixel-by-pixel ground truth annotation of uniformly coloured object surfaces.
 
 We mainly address the realistic scenarios for evaluation of computational colour constancy algorithms, but also have aimed to make the data as general as possible for computational colour science and computer vision. 
+<!--The detailed description with the experimental setup is provided in [Multiple Light Source Dataset for Colour Research ](hhtp://) -->
+
+<!--If you use this dataset, please, cite the appropriate paper.
+
+    @article{smagina2019multiple,
+    title={Multiple Light Source Dataset for Colour Research},
+    author={Smagina, Anna and Grigoryev, Anton and Ershov, Egor},
+    journal={arXiv preprint arXiv:},
+    year={2019}
+    } -->
 
 <!-- <img height="160px" width="840px" align="center" src="https://github.com/Visillect/MLS-dataset/blob/master/images/scenes-overview.png"> -->
 
@@ -67,12 +77,3 @@ Copyright 2018 Visillect Service LLC
 Developed for Kharkevich Institute for Information Transmission Problems of the Russian Academy of Sciences (IITP RAS)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
-
-<!-- If you use this dataset, please, cite our paper
-
-    @article{smagina2019multiple,
-    title={Multiple Light Source Dataset for Colour Research},
-    author={Smagina, Anna and Grigoryev, Anton and Ershov, Egor},
-    journal={arXiv preprint arXiv:},
-    year={2019}
-    } -->
