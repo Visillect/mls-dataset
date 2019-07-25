@@ -6,7 +6,7 @@
 + Pixel-by-pixel ground truth annotation of uniformly coloured object surfaces.
 
 We mainly address the realistic scenarios for evaluation of computational colour constancy algorithms, but also have aimed to make the data as general as possible for computational colour science and computer vision. 
-<!--The detailed description with the experimental setup is provided in [Multiple Light Source Dataset for Colour Research ](hhtp://) -->
+<!--Details have been published in: [Multiple Light Source Dataset for Colour Research ](hhtp://) -->
 
 <!--If you use this dataset, please, cite the appropriate paper.
 
@@ -17,9 +17,25 @@ We mainly address the realistic scenarios for evaluation of computational colour
     year={2019}
     } -->
 
-<!-- <img height="160px" width="840px" align="center" src="https://github.com/Visillect/MLS-dataset/blob/master/images/scenes-overview.png"> -->
-
 ## Image data
+
+![Scenes overview](./images/scenes_overview.png) 
+
+An overview of all 24 recorded MLS scenes is given on the figure above.
+
+Each scene was constructed inside a 60x60x60 cm softbox and illuminated from the outside.
+Illumination of each scene is varied in 18 configurations:
+
+![Lighting overview](./images/lighting_overview.png) 
+
+Each image of the scene is marked with a list of the turned-on light sources, which are ones of the following:
+
++ 2HAL are two halogen lights, installed at the distance about 1.2 m each; form the lighting close to embient, 
++ DESK is a desktop lamp installed at 20 cm from the softbox, 
++ R025, R050, RG025, BG025 etc is a 3-colored (red, green, blue) LED strip mounted at the top of softbox; the letters R, RG, GB or B indicates turned-on colored components of the LED-lapm, while the numbers 025, 050, 070 and 100 indicates the percentage of the emitting power.
+
+The shooting was performed with the white balance adjusted to 6500K. 
+No additional white balance correction was performed during the post-processing of the images.
 
 **Full resolution (2391 x 1900)**
 
