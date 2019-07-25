@@ -3,7 +3,7 @@
 + Images of **24 multiple object scenes**.
 + Each scene is taken under **18 multiple light source illumination scenarios**, the illuminants are varying in dominant spectral colours, intensity and distance from the scene.
 + **Spectral characteristics** of the camera, illuminants sources and uniformly coloured object surfaces.
-+ Pixel-by-pixel ground truth annotation of uniformly coloured object surfaces.
++ Pixel-by-pixel masks of uniformly coloured object surfaces for each scene.
 
 We mainly address the realistic scenarios for evaluation of computational colour constancy algorithms, but also have aimed to make the data as general as possible for computational colour science and computer vision. 
 <!--Details have been published in: [Multiple Light Source Dataset for Colour Research ](hhtp://) -->
@@ -36,6 +36,9 @@ Each image of the scene is marked with a list of the turned-on light sources, wh
 
 The shooting was performed with the white balance adjusted to 6500K. 
 No additional white balance correction was performed during the post-processing of the images.
+
+Each scene is also provided with the pixel-by-pixel colouring annotation given in a 8-bit PNG file, in which
+unique pixels colour corresponds to uniform colouring of the scene presented in a spectral data (see section below). 
 
 **Full resolution (2391 x 1900)**
 
@@ -75,8 +78,11 @@ Images files are organized as follwoing:
 
 where 01, 02, 03 etc directories containes images for a single scene, and 2HAL, 2HAL_DESK, 2HAL_DESK_B025 indicates various lighting conditions of a given scene. The scene is provided with one mask ([scene_number].png). -->
 
-<!-- ## Spectral data
+## Spectral data
 
+TODO
+
+<!--
 [camera]() MB
 [illuminants]() MB
 [surfaces]() MB
