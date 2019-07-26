@@ -89,11 +89,12 @@ Masks files are named as <*scene_number*>.png.
 
 **TODO:** data format description
 
-[illuminants](http://vis.iitp.ru/mls-dataset/illuminants.zip) 
+[illuminants](http://vis.iitp.ru/mls-dataset/illuminants.zip) XX MB
 
-[surfaces](http://vis.iitp.ru/mls-dataset/surfaces.zip) 
+[surfaces](http://vis.iitp.ru/mls-dataset/surfaces.zip) XX MB
 
-**TODO:** notes on LED spectra 
+The illuminants spectra are provided along with the experimenta setup sheme.
+Note, that spectra of red, green and blue light of 3-colored LED strip are additive. **TODO:** complete notes on LED spectra.
 
 **TODO:** how to link surface spectra with the masks? 
 
