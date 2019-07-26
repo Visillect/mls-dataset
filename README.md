@@ -101,6 +101,10 @@ Note, that spectra of red, green and blue light of 3-colored LED strip are addit
 
 **TODO:** how to link surface spectra with the masks? 
 
+## Usage example
+
+**TODO**
+
 ## License & citation  
 
 Copyright 2018 Visillect Service LLC
