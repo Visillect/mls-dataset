@@ -97,6 +97,8 @@ Masks files are named as <*scene_number*>.png.
 The illuminants spectra are provided along with the experimenta setup sheme.
 Note, that spectra of red, green and blue light of 3-colored LED strip are additive. **TODO:** complete notes on LED spectra.
 
+**TODO:** surfaces spectra differ for dielectrics and metals.
+
 **TODO:** how to link surface spectra with the masks? 
 
 ## License & citation  
