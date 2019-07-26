@@ -105,6 +105,10 @@ Note, that spectra of red, green and blue light of 3-colored LED strip are addit
 
 **TODO**
 
+## Contribution
+
+Contributions (bug reports, bug fixes, improvements, etc.) are very welcome and should be submitted in the form of new issues and/or pull requests on GitHub.
+
 ## License & citation  
 
 Copyright 2018 Visillect Service LLC
