@@ -6,16 +6,16 @@
 + Pixel-by-pixel masks of uniformly coloured object surfaces for each scene.
 
 We mainly address the realistic scenarios for evaluation of computational colour constancy algorithms, but also have aimed to make the data as general as possible for computational colour science and computer vision. 
-<!--Details have been published in: [Multiple Light Source Dataset for Colour Research ](hhtp://) -->
+Details have been published in: [Multiple Light Source Dataset for Colour Research ]().
 
-<!--If you use this dataset, please, cite the appropriate paper.
+If you use this dataset, please, cite the appropriate paper.
 
     @article{smagina2019multiple,
     title={Multiple Light Source Dataset for Colour Research},
     author={Smagina, Anna and Grigoryev, Anton and Ershov, Egor},
-    journal={arXiv preprint arXiv:},
+    journal={arXiv preprint},
     year={2019}
-    } -->
+    }
 
 ## Image data
 
@@ -40,6 +40,8 @@ No additional white balance correction was performed during the post-processing 
 Each scene is also provided with the pixel-by-pixel colouring annotation given in a 8-bit PNG file, in which
 unique pixels colour corresponds to uniform colouring of the scene presented in a spectral data (see section below). 
 
+**TODO:** image post-processing
+
 **Full resolution (2391 x 1900)**
 
 [32-bit tif images](http://vis.iitp.ru/mls-dataset/images_32bit.zip) 15 GB
@@ -52,7 +54,7 @@ unique pixels colour corresponds to uniform colouring of the scene presented in 
 
 [masks](http://vis.iitp.ru/mls-dataset/masks_16bit.zip) < 1 MB
 
-**Quarter resolution (600 x 493) for preview**
+**Quarter resolution (640 x 525) for preview**
 
 [jpeg images](http://vis.iitp.ru/mls-dataset/images_preview.zip) 160 MB
 
@@ -79,22 +81,21 @@ where the subdirectory name and the first number in the file name -- 01, 02, 03 
 
 Masks files are named as <*scene_number*>.png.
 
-## Spectral data
+## Camera spectral sensitivity
 
-TODO
+**TODO** 
 
-<!--
-[camera]() MB
-[illuminants]() MB
-[surfaces]() MB
+## Spectra
 
-**Camera**
+**TODO:** data format description
 
-**Illuminants**
+[illuminants](http://vis.iitp.ru/mls-dataset/illuminants.zip) 
 
-**Surfaces** -->
+[surfaces](http://vis.iitp.ru/mls-dataset/surfaces.zip) 
 
-<!-- Acknowledgements and contributions -->
+**TODO:** notes on LED spectra 
+
+**TODO:** how to link surface spectra with the masks? 
 
 ## License & citation  
 
