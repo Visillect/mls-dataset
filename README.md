@@ -1,7 +1,6 @@
 # Multiple Light Source Dataset for Colour Research (work in progress)
 
 + Images of **24 multiple object scenes**. 
-+ **TODO? one scene contains color cheker.**
 + Each scene is taken under **18 multiple light source illumination scenarios**, the illuminants are varying in dominant spectral colours, intensity and distance from the scene.
 + **Spectral characteristics** of the camera, illuminants sources and uniformly coloured object surfaces.
 + Pixel-by-pixel masks of uniformly coloured object surfaces for each scene.
@@ -40,8 +39,6 @@ No additional white balance correction was performed during the post-processing 
 
 Each scene is also provided with the pixel-by-pixel colouring annotation given in a 8-bit PNG file, in which
 unique pixels colour corresponds to uniform colouring of the scene presented in a spectral data (see section below). 
-
-**TODO:** image post-processing
 
 **Full resolution (2391 x 1900)**
 
