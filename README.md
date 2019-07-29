@@ -81,7 +81,11 @@ Masks files are named as <*scene_number*>.png.
 
 ## Camera spectral sensitivity
 
-**TODO** 
+The shooting was performed on Canon 5D Mark III, the spectral for which was measured by Baek et al. in 
+[Compact Single-Shot Hyperspectral Imaging Using a Prism. SH Baek, I Kim, D Gutierrez, MH Kim
+ACM Transactions on Graphics, 2017](https://www.researchgate.net/profile/Min_Kim48/publication/321232127_Compact_single-shot_hyperspectral_imaging_using_a_prism/links/5c1815574585157ac1ca090a/Compact-single-shot-hyperspectral-imaging-using-a-prism.pdf).
+
+Also, the Canon 5D Mark II spectral data could be applied, which is available in a txt format [here](https://github.com/ampas/rawtoaces/blob/master/data/camera/canon_eos_5d_mark_ii_380_780_5.json).
 
 ## Spectra
 
