@@ -101,11 +101,12 @@ sampling every 5 nm.
 [surfaces](https://bit.ly/2YfcPh0) `ftp://vis.iitp.ru/mls-dataset/surfaces.zip` < 1 MB
 
 The illuminants spectra are provided along with the experimenta setup sheme.
-Note, that spectra of red, green and blue light of 3-colored LED strip are additive. **TODO:** complete notes on LED spectra.
+Note, that spectra of red, green and blue lights of 3-colored LED strip are additive. 
 
-**TODO:** surfaces spectra differ for dielectrics and metals.
+For each dielectric surface we provide a single reflectance spectrum, measured at an angle 45 degrees. 
+For metallic ones we measured reftance spectrum at 45 and 90 degrees.
 
-**TODO:** how to link surface spectra with the masks? 
+With the surface data we also provide a correspodence between scene masks and the spectra in csv-file.
 
 ## Usage example
 
