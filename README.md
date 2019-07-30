@@ -32,7 +32,7 @@ Each image of the scene is marked with a list of the turned-on light sources, wh
 
 + 2HAL are two halogen lights, installed at the distance about 1.2 m each; form the lighting close to embient, 
 + DESK is a desktop lamp installed at 20 cm from the softbox, 
-+ R025, R050, RG025, BG025 etc is a 3-colored (red, green, blue) LED strip mounted at the top of softbox; the letters R, RG, GB or B indicates turned-on colored components of the LED-lapm, while the numbers 025, 050, 070 and 100 indicates the percentage of the emitting power.
++ LED-R025, LED-R050, LED-RG025, LED-BG025 etc is a 3-colored (red, green, blue) LED strip mounted at the top of softbox; the letters R, RG, GB or B indicates turned-on colored components of the LED-lapm, while the numbers 025, 050, 070 and 100 indicates the percentage of the emitting power.
 
 The shooting was performed with the white balance adjusted to 6500K. 
 No additional white balance correction was performed during the post-processing of the images.
@@ -62,10 +62,11 @@ Images files are organized as following:
 
 <pre>
 ├── 01
-│   ├── 01_2HAL_DESK_B025.{tif, png, jpg}
-│   ├── 01_2HAL_DESK_B050.{tif, png, jpg}
-│   ├── 01_2HAL_DESK_B075.{tif, png, jpg}
-│   ├── 01_2HAL_DESK_B100.{tif, png, jpg}
+│   ├── 01_2HAL_DESK_LED-B025.{tif, png, jpg}
+│   ├── 01_2HAL_DESK_LED-B050.{tif, png, jpg}
+│   ├── 01_2HAL_DESK_LED-B075.{tif, png, jpg}
+│   ├── 01_2HAL_DESK_LED-B100.{tif, png, jpg}
+│   ├── 01_2HAL_DESK_LED-BG025.{tif, png, jpg}
 │   ├── ...
 │   ├── 01_2HAL_DESK.{tif, png, jpg}
 │   └── 01_2HAL.{tif, png, jpg}
@@ -75,7 +76,7 @@ Images files are organized as following:
 │   ...
 </pre>
 
-where the subdirectory name and the first number in the file name -- 01, 02, 03 etc -- indicates scene number, while the other part of file name -- 2HAL, 2HAL_DESK, 01_2HAL_DESK_B025 etc -- is a list of turned on illuminants (see description above in this section).  2HAL_DESK_B025 indicates various lighting conditions of a given scene. 
+where the subdirectory name and the first number in the file name -- 01, 02, 03 etc -- indicates scene number, while the other part of file name -- 2HAL, 2HAL_DESK, 2HAL_DESK_LED-B025 etc -- is a list of turned on illuminants (see description above in this section).  
 
 Masks files are named as <*scene_number*>.png.
 
