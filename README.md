@@ -96,9 +96,9 @@ sampling every 5 nm.
 
 **TODO:** data format description
 
-[illuminants](http://vis.iitp.ru/mls-dataset/illuminants.zip) 4 MB
+[illuminants](https://bit.ly/315t0dy) `ftp://vis.iitp.ru/mls-dataset/illuminants.zip` 4 MB
 
-[surfaces](http://vis.iitp.ru/mls-dataset/surfaces.zip) < 1 MB
+[surfaces](https://bit.ly/2YfcPh0) `ftp://vis.iitp.ru/mls-dataset/surfaces.zip` < 1 MB
 
 The illuminants spectra are provided along with the experimenta setup sheme.
 Note, that spectra of red, green and blue light of 3-colored LED strip are additive. **TODO:** complete notes on LED spectra.
