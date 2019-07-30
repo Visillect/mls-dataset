@@ -42,21 +42,21 @@ unique pixels colour corresponds to uniform colouring of the scene presented in 
 
 **Full resolution (2314 x 1900)**
 
-[32-bit tif images](http://vis.iitp.ru/mls-dataset/images_32bit.zip) 15 GB
+[32-bit tif images](https://bit.ly/2K55O9D) `ftp://vis.iitp.ru/mls-dataset/images_32bit.zip` 19.2 GB
 
-[masks](http://vis.iitp.ru/mls-dataset/masks_32bit.zip) 3 MB
+[masks](https://bit.ly/2Znvq74) `ftp://vis.iitp.ru/mls-dataset/masks_32bit.zip` 4 MB
 
 **Half-resolution (1280 x 1051)**
 
-[16-bit lossless compressed png images](http://vis.iitp.ru/mls-dataset/images_16bit.zip) 2.6 GB
+[16-bit lossless compressed png images](https://bit.ly/2LPOqYS) `ftp://vis.iitp.ru/mls-dataset/images_16bit.zip` 2.4 GB
 
-[masks](http://vis.iitp.ru/mls-dataset/masks_16bit.zip) < 1 MB
+[masks](https://bit.ly/2YtoVOB) `ftp://vis.iitp.ru/mls-dataset/masks_16bit.zip` < 1 MB
 
 **Quarter resolution (640 x 525) for preview**
 
-[jpeg images](http://vis.iitp.ru/mls-dataset/images_preview.zip) 160 MB
+[jpeg images](https://bit.ly/2LSqC6j) (ftp://vis.iitp.ru/mls-dataset/images_preview.zip) 170 MB
 
-[masks](http://vis.iitp.ru/mls-dataset/masks_preview.zip) < 1MB
+[masks](https://bit.ly/2YwJnhH) (ftp://vis.iitp.ru/mls-dataset/masks_preview.zip) < 1MB
 
 Images files are organized as following:
 
