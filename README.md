@@ -40,7 +40,7 @@ No additional white balance correction was performed during the post-processing 
 Each scene is also provided with the pixel-by-pixel colouring annotation given in a 8-bit PNG file, in which
 unique pixels colour corresponds to uniform colouring of the scene presented in a spectral data (see section below). 
 
-**Full resolution (2391 x 1900)**
+**Full resolution (2314 x 1900)**
 
 [32-bit tif images](http://vis.iitp.ru/mls-dataset/images_32bit.zip) 15 GB
 
