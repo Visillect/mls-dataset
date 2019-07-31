@@ -108,10 +108,6 @@ For metallic ones we measured reftance spectrum at 45 and 90 degrees.
 
 With the surface data we also provide a correspodence between scene masks and the spectra in csv-file.
 
-## Usage example
-
-**TODO**
-
 ## Contribution
 
 Contributions (bug reports, bug fixes, improvements, etc.) are very welcome and should be submitted in the form of new issues and/or pull requests on GitHub.
