@@ -88,13 +88,13 @@ ACM Transactions on Graphics, 2017](https://www.researchgate.net/profile/Min_Kim
 
 Also, the Canon 5D Mark II color matching
 functions could be applied, 
-which are provided in a txt-file [here](https://github.com/ampas/rawtoaces/blob/master/data/camera/canon_eos_5d_mark_ii_380_780_5.json).
+which are provided in a json-file [here](https://github.com/ampas/rawtoaces/blob/master/data/camera/canon_eos_5d_mark_ii_380_780_5.json).
 in the range from 380 nm to 750 nm with
 sampling every 5 nm.
 
 ## Spectra
 
-**TODO:** data format description
+Illuminants and surfaces spectra are given in csv-files in the range from 350 nm to 800 nm with sampling every 0.63-0.64 nm. 
 
 [illuminants](https://bit.ly/315t0dy) `ftp://vis.iitp.ru/mls-dataset/illuminants.zip` 4 MB
 
