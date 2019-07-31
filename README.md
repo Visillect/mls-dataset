@@ -100,7 +100,7 @@ sampling every 5 nm.
 
 [surfaces](https://bit.ly/2YfcPh0) `ftp://vis.iitp.ru/mls-dataset/surfaces.zip` < 1 MB
 
-The illuminants spectra are provided along with the experimenta setup sheme.
+The illuminants spectra are provided along with the experimental setup scheme.
 Note, that spectra of red, green and blue lights of 3-colored LED strip are additive. 
 
 For each dielectric surface we provide a single reflectance spectrum, measured at an angle 45 degrees. 
