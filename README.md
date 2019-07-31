@@ -12,7 +12,7 @@ If you use this dataset, please, cite the appropriate paper.
 
     @article{smagina2019multiple,
     title={Multiple Light Source Dataset for Colour Research},
-    author={Smagina, Anna and Grigoryev, Anton and Ershov, Egor},
+    author={Smagina, Anna and Ershov, Egor and Grigoryev, Anton},
     journal={arXiv preprint},
     year={2019}
     }
@@ -46,7 +46,7 @@ unique pixels colour corresponds to uniform colouring of the scene presented in 
 
 [masks](https://bit.ly/2Znvq74) `ftp://vis.iitp.ru/mls-dataset/masks_32bit.zip` 4 MB
 
-**Half-resolution (1280 x 1051)**
+**Half-resolution (1280 x 1051)** -- not exactly half
 
 [16-bit lossless compressed png images](https://bit.ly/2LPOqYS) `ftp://vis.iitp.ru/mls-dataset/images_16bit.zip` 2.4 GB
 
