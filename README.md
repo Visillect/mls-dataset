@@ -76,7 +76,7 @@ Images files are organized as following:
 │   ...
 </pre>
 
-where the subdirectory name and the first number in the file name -- 01, 02, 03 etc -- indicates scene number, while the other part of file name -- 2HAL, 2HAL_DESK, 2HAL_DESK_LED-B025 etc -- is a list of turned on illuminants (see description above in this section).  
+where the subdirectory name and the first number in the file name — 01, 02, 03 etc — indicates scene number, while the other part of file name — 2HAL, 2HAL_DESK, 2HAL_DESK_LED-B025 etc — is a list of turned on illuminants (see description above in this section).  
 
 Masks files are named as <*scene_number*>.png.
 
