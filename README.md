@@ -46,13 +46,13 @@ unique pixels colour corresponds to uniform colouring of the scene presented in 
 
 [masks](https://bit.ly/2Znvq74) `ftp://vis.iitp.ru/mls-dataset/masks_32bit.zip` 4 MB
 
-**Half-resolution (1280 x 1051)** -- not exactly half
+**Half-resolution (1157 x 950)**
 
 [16-bit lossless compressed png images](https://bit.ly/2LPOqYS) `ftp://vis.iitp.ru/mls-dataset/images_16bit.zip` 2.4 GB
 
 [masks](https://bit.ly/2YtoVOB) `ftp://vis.iitp.ru/mls-dataset/masks_16bit.zip` < 1 MB
 
-**Quarter resolution (640 x 525) for preview**
+**Quarter resolution (578 x 475) for preview**
 
 [jpeg images](https://bit.ly/2LSqC6j) `ftp://vis.iitp.ru/mls-dataset/images_preview.zip` 170 MB
 
