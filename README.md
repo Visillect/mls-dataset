@@ -94,21 +94,21 @@ sampling every 5 nm.
 
 ## Spectra
 
-Illuminants and surfaces spectra are given in the range from 380 nm to 780 nm with sampling every 0.6-0.7 nm. 
-Spectrum for single illuminant or surface is given in a single comma-separated csv-file containing two columns: "wavelength" and "value".
-Each illuminant and each surface has a unique name, by which the file with the assotiated spectrum is named.
-
 [illuminants](https://bit.ly/315t0dy) `ftp://vis.iitp.ru/mls-dataset/illuminants.zip` 4 MB
 
 [surfaces](https://bit.ly/2YfcPh0) `ftp://vis.iitp.ru/mls-dataset/surfaces.zip` < 1 MB
 
+Illuminants and surfaces spectra are given in the range from 380 nm to 780 nm with sampling every 0.6-0.7 nm. 
+
+Each illuminant and each surface has a unique name, by which the csv-file with the assotiated spectrum is named, e.g. `<surface name>.csv`.
+The file with the spectrum contains two columns: "wavelength" and "value".
+
 The illuminants spectra are provided along with the experimental setup scheme.
 Note, that spectra of red, green and blue lights of 3-colored LED strip are additive. 
 
-By default, for each surface we provide a reflectance spectrum, measured at an angle 45 degrees. 
-For metallic surfaces we also measured reftance spectrum at 90 degrees, which is given in separate file named `<surface name>.specular.csv`
-
 With the surface spectra we also provide a correspodence between scene masks and the surfaces names in `mask_to_surface.csv` file.
+By default, for each surface we provide a reflectance spectrum, measured at an angle 45 degrees. 
+For metallic surfaces we also measured reftance spectrum at 90 degrees, which is given in additional file named `<surface name>.specular.csv`
 
 ## Contribution
 
