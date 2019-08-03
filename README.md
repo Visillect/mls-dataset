@@ -94,7 +94,7 @@ sampling every 5 nm.
 
 ## Spectra
 
-Illuminants and surfaces spectra are given in csv-files in the range from 350 nm to 800 nm with sampling every 0.63-0.64 nm. 
+Illuminants and surfaces spectra are given in csv-files in the range from 380 nm to 780 nm with sampling every 0.6-0.7 nm. 
 
 [illuminants](https://bit.ly/315t0dy) `ftp://vis.iitp.ru/mls-dataset/illuminants.zip` 4 MB
 
