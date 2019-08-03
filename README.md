@@ -1,6 +1,6 @@
 # Multiple Light Source Dataset for Colour Research (work in progress)
 
-+ Images of **24 multiple object scenes**. 
++ Images of **24 multiple object scenes**. HOW MANY OBJECTS OR SURFACES?
 + Each scene is taken under **18 multiple light source illumination scenarios**, the illuminants are varying in dominant spectral colours, intensity and distance from the scene.
 + **Spectral characteristics** of the camera, illuminants sources and uniformly coloured object surfaces.
 + Pixel-by-pixel masks of uniformly coloured object surfaces for each scene.
