@@ -1,4 +1,4 @@
-# Multiple Light Source Dataset for Colour Research (work in progress)
+# Multiple Light Source Dataset for Colour Research 
 
 + Images of **24 multiple object scenes**.
 + Each scene is taken under **18 multiple light source illumination scenarios**, the illuminants are varying in dominant spectral colours, intensity and distance from the scene.
