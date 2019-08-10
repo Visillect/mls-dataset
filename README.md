@@ -98,7 +98,7 @@ sampling every 5 nm.
 
 [surfaces](https://bit.ly/2YfcPh0) `ftp://vis.iitp.ru/mls-dataset/surfaces.zip` < 1 MB
 
-[spectra measurement photo examples](https://bit.ly/2Krv5eE) `ftp://vis.iitp.ru/mls-dataset/spectra_measurement_photo_examples.zip` 2 MB
+[spectra measurement photo](https://bit.ly/2Krv5eE) `ftp://vis.iitp.ru/mls-dataset/spectra_measurement_photo_examples.zip` 2 MB
 
 Illuminants and surfaces spectra are given in the range from 380 nm to 780 nm with sampling every 0.6-0.7 nm. 
 
