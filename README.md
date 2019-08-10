@@ -98,12 +98,16 @@ sampling every 5 nm.
 
 [surfaces](https://bit.ly/2YfcPh0) `ftp://vis.iitp.ru/mls-dataset/surfaces.zip` < 1 MB
 
+[spectra measurement photo examples](https://bit.ly/2Krv5eE) `ftp://vis.iitp.ru/mls-dataset/spectra_measurement_photo_examples.zip` 2 MB
+
 Illuminants and surfaces spectra are given in the range from 380 nm to 780 nm with sampling every 0.6-0.7 nm. 
 
 Each illuminant and each surface has a unique name, by which the csv-file with the assotiated spectrum is named, e.g. `<surface name>.csv`.
 The file with the spectrum contains two columns: "wavelength" and "value".
 
-The illuminants spectra are provided along with the experimental setup scheme.
+The illuminants spectra are provided along with the experimental setup scheme and the photo.
+All source spectra are measured through the light box, to characterize the real spectra illuminating the objects. 
+Also, the spectrum of both halogen lamps measured near the camera lens to get some imformation on relative spectral intensities. 
 Note, that spectra of red, green and blue lights of 3-colored LED strip are additive. 
 
 With the surface spectra we also provide a correspodence between scene masks and the surfaces names in `mask_to_surface.csv` file.
