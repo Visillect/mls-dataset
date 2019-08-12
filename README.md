@@ -26,7 +26,7 @@ An overview of all 24 recorded MLS scenes is given on the figure above.
 Each scene was constructed inside a 60x60x60 cm softbox and illuminated from the outside.
 Illumination of each scene is varied in 18 configurations:
 
-![Lighting overview](./images/lighting_overview.png) 
+<img src="images/lighting_overview.png" width:="400px"/>
 
 Each image of the scene is marked with a list of the turned-on light sources, which are ones of the following:
 
