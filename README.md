@@ -13,7 +13,7 @@ If you use this dataset, please, cite the appropriate paper.
     @article{smagina2019multiple,
     title={Multiple Light Source Dataset for Colour Research},
     author={Smagina, Anna and Ershov, Egor and Grigoryev, Anton},
-    journal={arXiv preprint},
+    journal={arXiv preprint:1908.06126},
     year={2019}
     }
 
