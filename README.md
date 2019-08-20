@@ -6,7 +6,7 @@
 + Pixel-by-pixel masks of uniformly coloured object surfaces for each scene.
 
 We mainly address the realistic scenarios for evaluation of computational colour constancy algorithms, but also have aimed to make the data as general as possible for computational colour science and computer vision. 
-Details have been published in: [Multiple Light Source Dataset for Colour Research ]().
+Details have been published in: [Multiple Light Source Dataset for Colour Research ](https://arxiv.org/abs/1908.06126).
 
 If you use this dataset, please, cite the appropriate paper.
 
