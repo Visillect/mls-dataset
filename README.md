@@ -86,11 +86,9 @@ The shooting was performed on Canon 5D Mark III, the spectral for which was meas
 [Compact Single-Shot Hyperspectral Imaging Using a Prism. SH Baek, I Kim, D Gutierrez, MH Kim
 ACM Transactions on Graphics, 2017](https://www.researchgate.net/profile/Min_Kim48/publication/321232127_Compact_single-shot_hyperspectral_imaging_using_a_prism/links/5c1815574585157ac1ca090a/Compact-single-shot-hyperspectral-imaging-using-a-prism.pdf).
 
-Also, the Canon 5D Mark II color matching
-functions could be applied, 
-which are provided in a json-file [here](https://github.com/ampas/rawtoaces/blob/master/data/camera/canon_eos_5d_mark_ii_380_780_5.json).
-in the range from 380 nm to 750 nm with
-sampling every 5 nm.
+We also provide camera spectral data in csv-format extracted from the paper above with [Web Plot Digitizer](https://automeris.io/WebPlotDigitizer/citation.html)
+
+[camera spectral sensitivities](https://bit.ly/3629emK) `ftp://vis.iitp.ru/mls-dataset/Canon5DMarkIII_spectralSensitivity.csv` < 1 MB
 
 ## Spectra
 
