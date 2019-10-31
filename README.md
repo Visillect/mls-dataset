@@ -108,7 +108,7 @@ All source spectra are measured through the light box, to characterize the real 
 Also, the spectrum of both halogen lamps measured near the camera lens to get some imformation on relative spectral intensities. 
 Note, that spectra of red, green and blue lights of 3-colored LED strip are additive. 
 
-The reflectance spectra were measured relative to the polytetrafluoroethylene standard (please, see [paper](https://arxiv.org/abs/1908.06126) for the details)
+The reflectance spectra were measured relative to white matte polytetrafluoroethylene standard (please, see [paper](https://arxiv.org/abs/1908.06126) for the details).
 With the surface spectra we also provide a correspodence between scene masks and the surfaces names in `mask_to_surface.csv` file.
 By default, for each surface we provide a reflectance spectrum, measured at an angle 45 degrees. 
 For metallic surfaces we also measured reftance spectrum at 90 degrees, which is given in additional file named `<surface name>.specular.csv`
