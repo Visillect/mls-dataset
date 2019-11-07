@@ -52,7 +52,7 @@ unique pixels colour corresponds to uniform colouring of the scene presented in 
 
 [masks](https://bit.ly/2lXwQ9e) `ftp://vis.iitp.ru/mls-dataset/masks_16bit_png.zip` < 1 MB
 
-<!--To read 16-bit 3-channel PNG use pypng python-library.-->
+To read 16-bit 3-channel PNG with Python use [pypng](https://pythonhosted.org/pypng/) package.
 
 **Quarter resolution (578 x 475) for preview**
 
