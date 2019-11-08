@@ -82,6 +82,12 @@ where the subdirectory name and the first number in the file name — 01, 02, 03
 
 Masks files are named as <*scene_number*>.png.
 
+<!--### Transfrom to linearised sRGB-->
+
+<!--array([[ 2.09685702e+01, -1.05362974e+00, -1.85918786e+01],
+       [-7.14282555e+00,  1.95023932e+01,  5.54891660e+00],
+       [-3.82474482e-02, -1.77071387e+01,  9.27410805e+01]-->
+
 ## Camera spectral sensitivity
 
 The shooting was performed on Canon 5D Mark III, the spectral for which was measured by Baek et al. in 
