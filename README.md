@@ -56,7 +56,7 @@ To read 16-bit 3-channel PNG with Python use [pypng](https://pythonhosted.org/py
 
 **Quarter resolution (578 x 475) for preview**
 
-[jpeg images](https://bit.ly/2LSqC6j) `ftp://vis.iitp.ru/mls-dataset/images_preview.zip` 170 MB
+[jpeg images](https://bit.ly/2LSqC6j) `ftp://vis.iitp.ru/mls-dataset/images_preview.zip` 89 MB
 
 [masks](https://bit.ly/2YwJnhH) `ftp://vis.iitp.ru/mls-dataset/masks_preview.zip` < 1MB
 
