@@ -48,9 +48,9 @@ unique pixels colour corresponds to uniform colouring of the scene presented in 
 
 **Half-resolution (1157 x 950)**
 
-[16-bit linear color images](https://bit.ly/2kCfyP0) `ftp://vis.iitp.ru/mls-dataset/images_16bit_png.zip` 1.8 GB
+[16-bit linear color images](https://bit.ly/2QjKL6J) `ftp://vis.iitp.ru/mls-dataset/images_16bit_color.zip` 1.8 GB
 
-[masks](https://bit.ly/2lXwQ9e) `ftp://vis.iitp.ru/mls-dataset/masks_16bit_png.zip` < 1 MB
+[masks](https://bit.ly/375RLdz) `ftp://vis.iitp.ru/mls-dataset/masks_16bit_color.zip` < 1 MB
 
 To read 16-bit 3-channel PNG with Python use [pypng](https://pythonhosted.org/pypng/) package.
 
