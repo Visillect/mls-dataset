@@ -42,13 +42,13 @@ unique pixels colour corresponds to uniform colouring of the scene presented in 
 
 **Full resolution (2314 x 1900)**
 
-[16-bit single channel raw images](https://bit.ly/2lSFbvb) `ftp://vis.iitp.ru/mls-dataset/images_16bit_raw.zip` 2.6 GB
+[16-bit single channel raw images](https://bit.ly/2lSFbvb) `ftp://vis.iitp.ru/mls-dataset/images_16bit_raw.zip` 2.9 GB
 
 [masks](https://bit.ly/2kLs7aD) `ftp://vis.iitp.ru/mls-dataset/masks_16bit_raw.zip` 4 MB
 
 **Half-resolution (1157 x 950)**
 
-[16-bit linear color images](https://bit.ly/2QjKL6J) `ftp://vis.iitp.ru/mls-dataset/images_16bit_color.zip` 1.8 GB
+[16-bit linear color images](https://bit.ly/2QjKL6J) `ftp://vis.iitp.ru/mls-dataset/images_16bit_color.zip` 2.0 GB
 
 [masks](https://bit.ly/375RLdz) `ftp://vis.iitp.ru/mls-dataset/masks_16bit_color.zip` < 1 MB
 
