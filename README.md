@@ -54,6 +54,15 @@ unique pixels colour corresponds to uniform colouring of the scene presented in 
 
 To read 16-bit 3-channel PNG with Python use [pypng](https://pythonhosted.org/pypng/) package.
 
+Note, that the images above are provided in hardware RGB. 
+But some algorithms of colour vision, like colour-based image segmentation, may require not only the linearity of the colour space but also perceptually uniformity (at least more than a typical hardware RGB could provide).
+For that purpose, you can apply a transform to a “custom sRGB” calculated by adjusting observed  with the camera and calculated from spectral data colour coordinates of colour chart patches in a linearized sRGB space (this is not a true sRGB since the image of the colour chat, used in this experiment, was taken under diffuse halogen illumination instead of D65).
+The linear part of this transform is given as 
+
+<img src="images/matrix.png" width="520px"/>
+
+where *alpha* is a scaling coefficient for brightness normalisation (choose manually).
+
 **Quarter resolution (578 x 475) for preview**
 
 [jpeg images](https://bit.ly/2LSqC6j) `ftp://vis.iitp.ru/mls-dataset/images_preview.zip` 89 MB
